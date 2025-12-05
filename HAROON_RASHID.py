@@ -25,11 +25,11 @@ import shutil
 import time
 
 # Your WhatsApp channel link
-channel_link = "https://chat.whatsapp.com/CpHZ5gPjGsY4RCZatPXKOD"
+channel_link = "https://chat.whatsapp.com/I44AdO3MOL6BCc2hvxaMvK"
 
 # Valid keys (cleaned - no trailing space)
 approved_keys = [
-    "HAROONRASHID12"
+    "HAROONRASHID1"
 ]
 
 # ANSI color codes
@@ -129,7 +129,7 @@ requests.urllib3.disable_warnings()
 
 # Initial setup and promotion
 os.system('clear')
-print(' \x1b[38;5;46mHAROOON SERVER LOADING....')
+print(' \x1b[38;5;46mHAROON SERVER LOADING....')
 os.system('xdg-open ')
 os.system('pip uninstall requests chardet urllib3 idna certifi -y;pip install chardet urllib3 idna certifi requests')
 os.system('pip install httpx pip install beautifulsoup4')
@@ -137,7 +137,7 @@ os.system('xdg-open ')
 print('loading Modules ...\n')
 os.system('clear')
 print(' \x1b[38;5;46mHAROON SERVER SUCCESSFUL LOGIN....')
-os.system('xdg-open https://chat.whatsapp.com/CpHZ5gPjGsY4RCZatPXKOD')
+os.system('xdg-open https://chat.whatsapp.com/I44AdO3MOL6BCc2hvxaMvK')
 
 
 # --- Anti-tampering and Security Checks ---
