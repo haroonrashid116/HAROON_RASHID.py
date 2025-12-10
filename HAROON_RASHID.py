@@ -29,7 +29,7 @@ channel_link = "https://chat.whatsapp.com/I44AdO3MOL6BCc2hvxaMvK"
 
 # Valid keys (cleaned - no trailing space)
 approved_keys = [
-    "ARBABDNYA2"
+    "HAROON RASHID 2026"
 ]
 
 # ANSI color codes
